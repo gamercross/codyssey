@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Codyssey Chronicle" />
+  <img src="./assets/chronicle.svg" width="100%" alt="Codyssey Chronicle" />
 
   <sub>Missions from two <b>Codyssey</b> courses: <b>All-in-One</b> and <b>Native</b>.<br />
   Each mission lives in its own repository. This tome links them in order.</sub>
