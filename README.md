@@ -1,13 +1,13 @@
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="Codyssey Chronicle" />
 
-  <sub>Missions from the 2026 Daejeon <b>Codyssey</b> native course.<br />
+  <sub>Missions from two <b>Codyssey</b> courses: <b>All-in-One</b> and <b>Native</b>.<br />
   Each mission lives in its own repository. This tome links them in order.</sub>
 </div>
 
 <br />
 
-### ✦ Stage I · Onboarding
+<img src="./assets/course-i.svg" width="100%" alt="Course I — Codyssey All-in-One" />
 
 | Mission | Repository | What I built | |
 |:---:|---|---|:---:|
@@ -15,7 +15,13 @@
 | 1-2 | [codyssey-1-2](https://github.com/gamercross/codyssey-1-2) | 🎯 Console quiz game in Python — OOP with JSON save data | |
 | 1-3 | [codyssey-1-3](https://github.com/gamercross/codyssey-1-3) | 🚧 In progress | |
 
-### ✦ Stage II · AI Tools
+<sub>All-in-One repositories carry the <code>codyssey-allinone</code> topic — <a href="https://github.com/search?q=user%3Agamercross+topic%3Acodyssey-allinone&type=repositories">browse them</a></sub>
+
+<br /><br />
+
+<img src="./assets/course-ii.svg" width="100%" alt="Course II — Codyssey Native, 2026 Daejeon" />
+
+#### ✦ AI Tools
 
 | Mission | Repository | What I built | |
 |:---:|---|---|:---:|
@@ -23,7 +29,7 @@
 | B2-1 | [AI-Brand-Advertisement-Project](https://github.com/gamercross/AI-Brand-Advertisement-Project) | 🎬 AI-powered brand ad made with multimodal prompts | |
 | B2-2 | [No-Code-Workflow-Automation-Project](https://github.com/gamercross/No-Code-Workflow-Automation-Project) | ⚙️ Business workflow automation with no-code tools | |
 
-### ✦ Stage III · Missions
+#### ✦ Missions
 
 | Mission | Repository | What I built | |
 |:---:|---|---|:---:|
@@ -36,18 +42,19 @@
 | Mission | [Final-Proj-Result](https://github.com/gamercross/Final-Proj-Result) | ⚖️ One mission, five starting points — comparing what Claude builds | |
 | Mission | [massanger-video](https://github.com/gamercross/massanger-video) | 💬 Messenger video project | |
 
-### ✦ Final
+#### ✦ Final
 
 | Stage | Repository | What we built | |
 |:---:|---|---|:---:|
 | Final | [2026-Codyssey-Final-Proj / Final-Proj](https://github.com/2026-Codyssey-Final-Proj/Final-Proj) | 🧊 Floe — a desktop guide that helps vibe coders finish, understand and learn (team) | [releases](https://github.com/2026-Codyssey-Final-Proj/Final-Proj/releases) |
 
-<br />
+<sub>Native repositories carry the <code>codyssey-native</code> topic — <a href="https://github.com/search?q=user%3Agamercross+topic%3Acodyssey-native&type=repositories">browse them</a></sub>
+
+<br /><br />
 
 <div align="center">
   <sub>
-    Every mission repository carries the <code>codyssey</code> topic —
-    <a href="https://github.com/search?q=user%3Agamercross+topic%3Acodyssey&type=repositories">browse them all</a> ·
+    <a href="https://github.com/search?q=user%3Agamercross+topic%3Acodyssey&type=repositories">every Codyssey repository</a> ·
     <a href="https://github.com/gamercross">back to the profile</a>
   </sub>
 </div>
