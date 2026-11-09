@@ -13,6 +13,7 @@
 |:---:|---|---|:---:|
 | 1-1 | [codyssey-1-1](https://github.com/gamercross/codyssey-1-1) | 🐳 Reproducible dev workstation with Linux CLI, Docker & Git | |
 | 1-2 | [codyssey-1-2](https://github.com/gamercross/codyssey-1-2) | 🎯 Console quiz game in Python — OOP with JSON save data | |
+| 1-3 | [codyssey-1-3](https://github.com/gamercross/codyssey-1-3) | 🚧 In progress | |
 
 ### ✦ Stage II · AI Tools
 
@@ -39,7 +40,7 @@
 
 | Stage | Repository | What we built | |
 |:---:|---|---|:---:|
-| Final | [2026-Codyssey-Final-Proj / Final-Proj](https://github.com/2026-Codyssey-Final-Proj/Final-Proj) | 🏁 Team final project | |
+| Final | [2026-Codyssey-Final-Proj / Final-Proj](https://github.com/2026-Codyssey-Final-Proj/Final-Proj) | 🧊 Floe — a desktop guide that helps vibe coders finish, understand and learn (team) | [releases](https://github.com/2026-Codyssey-Final-Proj/Final-Proj/releases) |
 
 <br />
 
