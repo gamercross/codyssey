@@ -13,7 +13,7 @@
 |:---:|---|---|:---:|
 | 1-1 | [codyssey-1-1](https://github.com/gamercross/codyssey-1-1) | 🐳 Reproducible dev workstation with Linux CLI, Docker & Git | |
 | 1-2 | [codyssey-1-2](https://github.com/gamercross/codyssey-1-2) | 🎯 Console quiz game in Python — OOP with JSON save data | |
-| 1-3 | [codyssey-1-3](https://github.com/gamercross/codyssey-1-3) | 🚧 In progress | |
+| 1-3 | [codyssey-1-3](https://github.com/gamercross/codyssey-1-3) | 🧮 Mini NPU simulator — MAC operations decide Cross vs X patterns | |
 
 <sub>All-in-One repositories carry the <code>codyssey-allinone</code> topic — <a href="https://github.com/search?q=user%3Agamercross+topic%3Acodyssey-allinone&type=repositories">browse them</a></sub>
 
